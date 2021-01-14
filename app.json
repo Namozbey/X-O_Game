@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "X & O",
+    "icon": "./icons/logo.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "android": {
+      "package": "com.some.any",
+      "versionCode": 1
+    }
+   }
+}
